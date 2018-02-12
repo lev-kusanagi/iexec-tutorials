@@ -27,5 +27,5 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
-# Emacs autosave files
+# Emacs backup files
 iexec.js~
