@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'MyContract',
+name:'Ffmpeg',
   data: {
     type: 'BINARY',
     cpu: 'AMD64',
